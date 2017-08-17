@@ -1,0 +1,17 @@
+{
+  "name": "redux-alerts-confirms",
+  "version": "1.0.0",
+  "description": "A simple alert and confirm modals creator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sundeep Narang <sundeepnrng@gmail.com> (https//sundeepnarang.com)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-bootstrap": "^0.31.2",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2"
+  }
+}
